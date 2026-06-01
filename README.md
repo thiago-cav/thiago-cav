@@ -13,7 +13,7 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 - JavaScript (Google Earth Engine)
 
 ### Geospatial Tools
-- Systematic planning tools (e.g., Zonation, prioritizr)
+- Systematic Conservation Planning (SCP) tools (e.g., Zonation, prioritizr)
 - Google Earth Engine
 
 ### Statistical & Modelling Approaches
@@ -23,6 +23,7 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 - Generalised linear, additive, and mixed-effects models (e.g., GLMs, GAMs)
 - Machine learning for ecological data
 - Multivariate analysis
+- Remote sensing
 ---
 
 ## 📊 Current Projects
