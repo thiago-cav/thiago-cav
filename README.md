@@ -33,7 +33,7 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 - Overcoming data uncertainties in spatial conservation planning and decision-making
 ---
 
-## 📫 Connect With Me
+## 🔗 Research Profiles
 - [Google Scholar](https://scholar.google.com/citations?user=Zdh48agAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0001-5357-9659)
 
