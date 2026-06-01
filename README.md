@@ -20,9 +20,8 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 ### Statistical & Modelling Approaches
 
 - Species distribution modelling (SDMs)
-- Spatial conservation modelling
-- Generalised linear and additive models (GLMs, GAMs)
-- Hierarchical and mixed-effects models
+- Spatial conservation prioritisation
+- Generalised linear, additive, and mixed-effects models (e.g., GLMs, GAMs)
 - Machine learning for ecological data
 - Multivariate analysis
 ---
