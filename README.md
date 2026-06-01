@@ -3,7 +3,7 @@
 I am a Postdoctoral Researcher at the University of Helsinki, based at the Finnish Museum of Natural History (Luomus). My research focuses on systematic conservation planning, species distribution modelling (SDM), and climate change impacts on biodiversity. 
 
 ---
-## Featured Project
+## 📌 Featured Project
 [ZonationR](https://thiago-cav.github.io/ZonationR/): Interface to 'Zonation' for Reproducible Prioritization Workflows
 
 ## 🛠️ Skills and Interests
