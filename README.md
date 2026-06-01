@@ -39,3 +39,5 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 ---
 
 > "Using spatial data and ecological models to support conservation decisions in a changing climate."
+
+Thank you for visiting. Feel free to explore my repositories, open issues, or get in touch for collaborations.
