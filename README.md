@@ -6,15 +6,14 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 ## Featured Project
 [ZonationR](https://thiago-cav.github.io/ZonationR/): Interface to 'Zonation' for Reproducible Prioritization Workflows
 
-## 🛠️ Technical Skills
+## 🛠️ Skills and Interests
 
 ### Programming
 - R
 - JavaScript (Google Earth Engine)
 
 ### Geospatial Tools
-- Zonation
-- Prioritizr
+- Systematic planning tools (e.g., Zonation, prioritizr)
 - Google Earth Engine
 
 ### Statistical & Modelling Approaches
