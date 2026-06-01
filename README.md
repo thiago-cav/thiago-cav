@@ -1,8 +1,10 @@
-# Hi, I'm Thiago 👋
+# Hi, I'm Thiago Cavalcante
 
 I am a Postdoctoral Researcher at the University of Helsinki, based at the Finnish Museum of Natural History (Luomus). My research focuses on systematic conservation planning, species distribution modelling (SDM), and climate change impacts on biodiversity. 
 
 ---
+## Featured Project
+[ZonationR](https://thiago-cav.github.io/ZonationR/): Interface to 'Zonation' for Reproducible Prioritization Workflows
 
 ## 🛠️ Technical Skills
 
@@ -10,20 +12,19 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 - R
 - JavaScript (Google Earth Engine)
 
-### Geospatial & Ecological Tools
+### Geospatial Tools
 - Zonation
 - Prioritizr
 - Google Earth Engine
 
-### Statistical & Modeling Approaches
-- Species Distribution Models
-- Ensemble Modeling
-- Generalized Linear Models (GLMs)
-- Generalized Additive Models (GAMs)
-- Mixed-Effects Models
-- Machine Learning
-- Multivariate Analysis
+### Statistical & Modelling Approaches
 
+- Species distribution modelling (SDMs)
+- Spatial conservation modelling
+- Generalised linear and additive models (GLMs, GAMs)
+- Hierarchical and mixed-effects models
+- Machine learning for ecological data
+- Multivariate analysis
 ---
 
 ## 📊 Current Projects
