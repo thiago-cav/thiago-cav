@@ -4,7 +4,7 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 
 ---
 ## 📌 Featured Project
-[ZonationR](https://thiago-cav.github.io/ZonationR/): Interface to 'Zonation' for Reproducible Prioritization Workflows
+[ZonationR](https://thiago-cav.github.io/ZonationR/): An R interface to the Zonation software for reproducible spatial conservation prioritisation workflows
 
 ## 🛠️ Skills and Interests
 
@@ -21,7 +21,7 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 - Species distribution modelling (SDMs)
 - Spatial conservation prioritisation
 - Generalised linear, additive, and mixed-effects models (e.g., GLMs, GAMs)
-- Machine learning for ecological data
+- Machine learning
 - Multivariate analysis
 - Remote sensing
 ---
