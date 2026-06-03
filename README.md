@@ -38,4 +38,6 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 
 ---
 
+::: {.callout-note}
 Thank you for visiting. Feel free to explore my repositories, open issues, or get in touch for collaborations.
+:::
