@@ -37,7 +37,5 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 - [ORCID](https://orcid.org/0000-0001-5357-9659)
 
 ---
+> Thank you for visiting. Feel free to explore my repositories, open issues, or get in touch for collaborations.
 
-::: {.callout-note}
-Thank you for visiting. Feel free to explore my repositories, open issues, or get in touch for collaborations.
-:::
