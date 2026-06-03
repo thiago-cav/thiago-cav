@@ -38,15 +38,3 @@ I am a Postdoctoral Researcher at the University of Helsinki, based at the Finni
 
 ---
 > Thank you for visiting. Feel free to explore my repositories, open issues, or get in touch for collaborations.
-
-<div style="
-  padding: 14px 16px;
-  border-radius: 10px;
-  background: #f7f9fc;
-  border: 1px solid #e3e8ef;
-  margin-top: 20px;
-  font-size: 0.95em;
-">
-<strong>Thank you for visiting.</strong><br>
-Feel free to explore my repositories, open issues, or get in touch for collaborations.
-</div>
