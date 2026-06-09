@@ -1,6 +1,6 @@
 # Hi, I'm Thiago Cavalcante
 
-I am a Postdoctoral Researcher at the University of Helsinki, based at the Finnish Museum of Natural History (Luomus). My research focuses on systematic conservation planning, species distribution modelling (SDM), and climate change impacts on biodiversity. 
+I am a Postdoctoral Researcher at the University of Helsinki, based at the Finnish Museum of Natural History (Luomus). My research focuses on species distribution modelling (SDM), conservation biogeography, systematic conservation planning, and climate change impacts on biodiversity. 
 
 ---
 ## 📌 Featured Project
